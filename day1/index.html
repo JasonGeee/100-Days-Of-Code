@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <!-- Javascript Pratice Fundamentals Part 3 -->
+    <script>
+        function add7(a) {
+            return a + 7;
+        }
+        console.log(add7(7))
+        
+        function multiply(b, c) {
+            return b * c;
+        }
+        console.log(multiply(8, 8));
+
+        function capitalize(string) {
+            let lowerCase = string.toLowerCase(); //Lower case all the letters first incase all are capitalized
+            
+            //return the string by uppercasing the first index of the string and returning the rest of the string by slice function
+            return lowerCase.charAt(0).toUpperCase() + lowerCase.slice(1); 
+        }
+        console.log(capitalize("HELLO"));
+
+        function lastLetter(string) {
+            let index = string.length - 1; //gets last index by - 1
+            return string[index];
+        }
+        console.log(lastLetter("abcd"));
+    </script>
+    
+</body>
+</html>
