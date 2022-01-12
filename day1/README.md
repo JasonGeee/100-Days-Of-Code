@@ -26,10 +26,12 @@ Did practice problems from the Fundaments part 3 page.
 #### Knowledge Check
 
 - What are functions useful for?
+
 Functions are useful for a specific task that needs to be done. They are reuseable blocks of code that can perform the same task needed to be done.
 Can be called easily with a line of code.
 
 - How do you invoke a function?
+
 First define the function like
 
 function myFunc() {
@@ -40,6 +42,7 @@ function myFunc() {
 myFunc(); //Call function here
 
 - What are anonymous functions?
+
 Anonymous functions are functions that are not defined by named. They are functions that are expected to be called by an event.
 
 function (){
@@ -47,12 +50,15 @@ function (){
 }
 
 - What is function scope?
+
 Function scope are values and expressions that are avaliable to use depending where they are declared. Can be global(outside a function) or local (inside a function);
 
 - What are return values?
+
 Return values are the values that a function returns back to the main scope or to another function.
 
 - What are arrow functions?
+
 Work like return values, basically creates a whole new function and returns a value without needing to create the function. 
 Example: 
 
