@@ -10,7 +10,7 @@ my progress seems like the best way to grasp the knowledge.
 
 I plan to learn from 
 
-- The Odin Project
+- The Odin Project [webpage](https://www.theodinproject.com/)
 - Other online resources (Youtube, Google, Open Sources)
 
 ## Day 1
