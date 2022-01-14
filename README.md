@@ -13,9 +13,17 @@ I plan to learn from
 - The Odin Project [webpage](https://www.theodinproject.com/)
 - Other online resources (Youtube, Google, Open Sources)
 
+But here and there I will be throwing in some other coding practice. Like touching up on my C++ or C programming.
+
 ## Day 1
 
 Committing to the 100 days of code for an hour or more a day!
 Making the github page to push into the repository to help document everyday of my coding journey.
 
 More Info [here](100-Days-Of-Code/day1)
+
+## Day 2
+
+Learning about problem solving. As any programmer should have a skill that can solve coding problems.
+
+More Info [here]()
