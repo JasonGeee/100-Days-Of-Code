@@ -20,17 +20,23 @@ But here and there I will be throwing in some other coding practice. Like touchi
 Committing to the 100 days of code for an hour or more a day!
 Making the github page to push into the repository to help document everyday of my coding journey.
 
-More Info [here](100-Days-Of-Code/day1)
+More Info [here](https://github.com/JasonGeee/100-Days-Of-Code/tree/main/day1)
 
 ## Day 2
 
 Learning about problem solving. As any programmer should have a skill that can solve coding problems.
 
-More Info [here]()
+More Info [here](https://github.com/JasonGeee/100-Days-Of-Code/tree/main/day2)
 
 ## Day 3
 
 Learned more about problem solving. Went back to some C++ code from previous labs to get back a grasp of the language.
 Understanding Errors was completed in TOP.
+
+More Info [here](https://github.com/JasonGeee/100-Days-Of-Code/tree/main/day3)
+
+## Day 4
+
+Creating a Rock-Paper-Scissors website! Only with Javascript for now. No CSS design until later on in the bootcamp.
 
 More Info [here]()
