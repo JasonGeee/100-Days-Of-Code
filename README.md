@@ -27,3 +27,10 @@ More Info [here](100-Days-Of-Code/day1)
 Learning about problem solving. As any programmer should have a skill that can solve coding problems.
 
 More Info [here]()
+
+## Day 3
+
+Learned more about problem solving. Went back to some C++ code from previous labs to get back a grasp of the language.
+Understanding Errors was completed in TOP.
+
+More Info [here]()
