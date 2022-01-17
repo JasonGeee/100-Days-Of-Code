@@ -236,3 +236,21 @@ console.log(citrus);
 ```
 *The slice() method can take two arguments like slice(1, 3).*
 The method then selects elements from the start argument, and up to (but not including) the end argument.
+
+### Loops in JS
+
+1) The for...of loop
+
+```
+const cats = ['Leopard', 'Serval', 'Jaguar', 'Tiger', 'Caracal', 'Lion'];
+
+for (const cat of cats) {
+  console.log(cat);
+}
+```
+    1) Given the collection cats, get the first item in the collection.
+    2) Assign it to the variable cat and then run the code between the curly brackets {}.
+    3) Get the next item, and repeat (2) until you've reached the end of the collection.
+
+2) map()
+to do something to each item in a collection and create a new collection containing the changed items:
