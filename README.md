@@ -39,4 +39,11 @@ More Info [here](https://github.com/JasonGeee/100-Days-Of-Code/tree/main/day3)
 
 Creating a Rock-Paper-Scissors website! Only with Javascript for now. No CSS design until later on in the bootcamp.
 
+More Info [here](https://github.com/JasonGeee/100-Days-Of-Code/tree/main/day4)
+
+## Day 5
+
+Learned about writing clean code! Clean code is very important, as other developers will read your code. They must be able to understand it.
+**Code is for explaining how. Comments are for explaing WHY**
+
 More Info [here]()
