@@ -253,4 +253,33 @@ for (const cat of cats) {
     3) Get the next item, and repeat (2) until you've reached the end of the collection.
 
 2) map()
-to do something to each item in a collection and create a new collection containing the changed items:
+to do something to each item in a collection and create a new collection containing the changed items
+```
+function toUpper(string) {
+  return string.toUpperCase();
+}
+
+const cats = ['Leopard', 'Serval', 'Jaguar', 'Tiger', 'Caracal', 'Lion'];
+
+const upperCats = cats.map(toUpper);
+
+console.log(upperCats);
+// [ "LEOPARD", "SERVAL", "JAGUAR", "TIGER", "CARACAL", "LION" ]
+```
+
+3) filter()
+to test each item in a collection, and create a new collection containing only items that match.
+
+When passing the function, we pass it in *boolean: if it returns true, then the item is included in the new array*
+```
+function lCat(cat) {
+  return cat.startsWith('L');
+}
+
+const cats = ['Leopard', 'Serval', 'Jaguar', 'Tiger', 'Caracal', 'Lion'];
+
+const filtered = cats.filter(lCat);
+
+console.log(filtered);
+// [ "Leopard", "Lion" ]
+```

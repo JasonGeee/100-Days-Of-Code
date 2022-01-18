@@ -47,3 +47,9 @@ Learned about writing clean code! Clean code is very important, as other develop
 **Code is for explaining how. Comments are for explaing WHY**
 
 More Info [here]()
+
+## Day 6
+
+Fundaments Part 4 of Javascript! More about Arrays and Loops for today!
+
+More Info [here]()
