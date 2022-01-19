@@ -15,6 +15,9 @@ I plan to learn from
 
 But here and there I will be throwing in some other coding practice. Like touching up on my C++ or C programming.
 
+**Decided to only create folders in the main repository and document in the specific folder of that day. Want to spend as much time learning.**
+If you want to read about my documentation of that day, go to the folder of that day. Thank you!
+
 ## Day 1
 
 Committing to the 100 days of code for an hour or more a day!
