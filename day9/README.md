@@ -130,3 +130,53 @@ Can use the *defer* keyword which would load the file after the HTML is parsed.
     <script src="js-file.js" defer></script>
 </head>
 ```
+
+**Events**
+
+Event listening was awesome to learn. Seeing elements change before my eyes with a click of a button was fun to see. Learning about events in JS is something a Front-End Developer does everyday on the job! So learning this and understanding it is a must.
+
+There are many way of add event listeners on HTML and Javascript so I'll review a bit about what I learned.
+
+*Best method to a simple event listner*
+```javascript
+xxx.addEventListener();
+```
+
+```HTML
+<button id="btn">Click Me!</button>
+```
+```javascript
+const btn = document.querySelector('#btn');
+
+btn.addEventListener('click', () => {
+    alert("Hello World");
+});
+```
+Pressing Button would alert a string saying "Hello World." Which is so cool!
+
+**In order to attach multiple listeners to groups of node**
+
+using the *querySelectorAll('selector');* would help the most!
+
+```HTML
+<div id="container">
+    <button id="1">Click Me</button>
+    <button id="2">Click Me</button>
+    <button id="3">Click Me</button>
+</div>
+```
+```javascript
+// buttons is a node list. It looks and acts much like an array.
+const buttons = document.querySelectorAll('button');
+
+// we use the .forEach method to iterate through each button
+buttons.forEach((button) => {
+  // and for each one we add a 'click' listener
+  button.addEventListener('click', () => {
+    alert(button.id);
+  });
+});
+```
+
+Clicking each button would have it's own alert of it's id.
+Tomorrow I will be working on the practice problems in DOM and Events page, can't wait!!
