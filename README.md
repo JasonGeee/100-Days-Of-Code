@@ -10,7 +10,8 @@ my progress seems like the best way to grasp the knowledge.
 
 I plan to learn from 
 
-- The Odin Project [webpage](https://www.theodinproject.com/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 - Other online resources (Youtube, Google, Open Sources)
 
 But here and there I will be throwing in some other coding practice. Like touching up on my C++ or C programming.
