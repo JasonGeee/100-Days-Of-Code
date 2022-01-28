@@ -22,3 +22,5 @@ git branch -d <branch_name> //Deletes branch if the branch hasn't already been m
 ```
 git merge <branch_name> //Takes the changes you've committed in <branch_name> and adds them to the branch currently on
 ```
+
+**git origin push <branch_name>** to push into the branch
